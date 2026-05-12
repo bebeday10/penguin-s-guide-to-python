@@ -22,5 +22,5 @@ Some want both:
 my_best_friend = "banana"
 print(my_best_friend)
 ```
-Robot: "banana" And it remembered.
+Robot: "banana" And it remembered.  
 *But how do they do that?* In this course, you configure robots.
